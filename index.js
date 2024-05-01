@@ -25,3 +25,14 @@ else {
   document.querySelector('h1').innerHTML = "the WINNER goes to Player 2!😜";
 }
 
+/* Sample Code
+if (randomNumber1 === randomNumber2) {
+  document.querySelector('h1').innerHTML = "It's a DRAW! We''ll see what happens next game😉";
+} 
+else if (randomNumber1 > randomNumber2) {
+  document.querySelector('h1').innerHTML = "the WINNER goes to Player 1!😜";
+}
+else {
+  document.querySelector('h1').innerHTML = "the WINNER goes to Player 2!😜";
+}
+*/
